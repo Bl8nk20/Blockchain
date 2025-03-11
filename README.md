@@ -6,6 +6,6 @@ To-Do:
 
 * [ ] Include Flask
 * [ ] Include a User Interface / Website
-* [ ] Implement the new Block Method
-* [ ] Implement the last_block method
-* [ ] Implement a simple hash algorithm
+* [x] Implement the new Block Method
+* [x] Implement the last_block method
+* [x] Implement a simple hash algorithm
