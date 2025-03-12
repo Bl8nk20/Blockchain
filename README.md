@@ -4,7 +4,7 @@ This Program is used to help me understand Blockchain Technology. I'll implement
 
 To-Do:
 
-* [ ] Include Flask
+* [X] Include Flask
 * [ ] Include a User Interface / Website
 * [x] Implement the new Block Method
 * [x] Implement the last_block method
