@@ -1,4 +1,5 @@
 flask==3.0.3
 requests==2.32.3
-cryptography==43.0.3
+cryptography==45.0.3 
 pytest==8.3.3
+ecdsa == 0.19.1 

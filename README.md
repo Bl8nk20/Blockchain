@@ -4,8 +4,8 @@ This Program is used to help me understand Blockchain Technology. I'll implement
 
 To-Do:
 
-* [X] Include Flask
-* [ ] Include a User Interface / Website
-* [x] Implement the new Block Method
-* [x] Implement the last_block method
-* [x] Implement a simple hash algorithm
+- [ ] Implement a Block Class ("storage" for transactions, information about sender & receipiant)
+- [ ] Implement a Linked List to handle the Blockchain (create new Block, validate chain, encrypt, decrypt, ...)
+- [ ] Implement a Logic to add "Personalized Wallets" (create a user account, generate unique id,...)
+- [ ] Implement a Logic to Handle Transactions (create, add, buy, sell, verify, ...)
+- [ ] Implement a Logic to Handle Wallets (create, delete, verify, pause, continue, ...)
